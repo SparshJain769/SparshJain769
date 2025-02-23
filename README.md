@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sparsh Jain
+ 👋 Hi, I’m Sparsh Jain
 - 👀 I’m interested in AI and its applications
 - 🌱 I’m currently learning Web development
 - 🏸 I am a Badminton player (Former State level player)
